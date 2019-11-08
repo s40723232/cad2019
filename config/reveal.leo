@@ -48,15 +48,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## s40723246 網際內容管理
+<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
 
 ### KMOLab
 
 &lt;small&gt;
-Created by [鄭竣元](https://s40723246.github.io/cad2019/content/index.html)
+Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[40723246 網誌](https://s40723246.github.io/cad2019/blog/index.html)
+[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
@@ -154,7 +154,7 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bUheCivNE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -170,7 +170,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+s40723232 網際內容管理
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -326,20 +326,16 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191101144738.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20191101144738.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20191101144826.1"># cad2019d 課程簡介
-
-* W2-先建立github倉儲，在clone到自己的隨身系統及分組
-* W3-Solvespace 編譯與繪圖應用基本操作
-* W5-Solvespace debugger編譯與繪圖示範
-* W6-網際 V-rep 模型控制及參數化零組件繪製
-* W7-solvespace編譯-從HELP中ABOUT的學號及繪製零件
-* W8-Webot
-* W9-驗證 reveal 期中簡報</t>
+<t tx="leo.20191101144826.1">W2:在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
+W3:Solvespace 編譯
+W5:solvespace的基本操作練習
+W6:V-rep 網際雙輪車控制模擬
+W7:統一網站架構, Solvespace 編譯與繪圖驗證
+W8:Solvespace 與 V-rep 應用, 雙輪車與行走機構
+W9:期中考週 - 任務一驗證, 學員 reveal 期中簡報</t>
 </tnodes>
 </leo_file>
