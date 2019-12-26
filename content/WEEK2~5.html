@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li class='has-children'><a href='WEEK.html'>WEEK</a><ul class='dropdown'><li><a href='WEEK2~5.html'>WEEK2~5</a><li><a href='WEEK6~9.html'>WEEK6~9</a></li></ul><li class='has-children'><a href='WEEK10~12.html'>WEEK10~12</a><ul class='dropdown'><li class='has-children'><a href='WEEK10.html'>WEEK10</a><ul class='dropdown'><li><a href='solidworks開發緣起.html'>solidworks開發緣起</a><li><a href='NX開發緣起.html'>NX開發緣起</a><li><a href='inventor開發緣起.html'>inventor開發緣起</a></li></li></ul></ul><li class='has-children'><a href='NX電子書整理.html'>NX電子書整理</a><ul class='dropdown'><li><a href='CH2入門教學.html'>CH2入門教學</a></li></ul><li><a href='WEEK15.html'>WEEK15</a><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
+                     <li class='has-children'><a href='WEEK.html'>WEEK</a><ul class='dropdown'><li class='has-children'><a href='WEEK2~5.html'>WEEK2~5</a><ul class='dropdown'><li><a href='WEEK2.html'>WEEK2</a><li><a href='WEEK3.html'>WEEK3</a><li><a href='WEEK4.html'>WEEK4</a><li><a href='WEEK5.html'>WEEK5</a></li></ul><li class='has-children'><a href='WEEK6~9.html'>WEEK6~9</a><ul class='dropdown'><li><a href='WEEK6.html'>WEEK6</a><li><a href='WEEK7.html'>WEEK7</a><li><a href='WEEK8.html'>WEEK8</a></li></ul><li class='has-children'><a href='WEEK10~14.html'>WEEK10~14</a><ul class='dropdown'><li><a href='WEEK10.html'>WEEK10</a><li><a href='WEEK11.html'>WEEK11</a><li><a href='WEEK12.html'>WEEK12</a><li><a href='WEEK13.html'>WEEK13</a></li></ul><li class='has-children'><a href='WEEK15~18.html'>WEEK15~18</a><ul class='dropdown'><li><a href='WEEK15.html'>WEEK15</a></li></li></ul></ul><li class='has-children'><a href='NX電子書整理.html'>NX電子書整理</a><ul class='dropdown'><li><a href='CH1 介紹.html'>CH1 介紹</a><li><a href='CH2入門教學.html'>CH2入門教學</a></li></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,47 +154,8 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">WEEK << <a href='WEEK.html'>Previous</a> <a href='WEEK6~9.html'>Next</a> >> WEEK6~9<br /><h1>WEEK2~5</h1>
-<h4>WEEK2</h4>
-<ol>
-<li>在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z</li>
-<li>使用git config --global user.name "user name"與git config --global user.email "<span>user email</span>" 設定自己的名字與email</li>
-<li><span>使用git submodule add新的指令 指令如下 ( git submodule add https://github.com/mdecourse/cmsimde.git cmsimde )</span></li>
-<li><span>輸入指令python -m pip install flask cors</span></li>
-</ol>
-<p><span>開啟近端開始更新內容，更新完成使用一上所使用的 git指令(git status、git pull .....</span><span>) </span><span></span><span></span><span></span><span><br/><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/gW4k7MkkOsQ" width="560"></iframe><br/></span></p>
-<h4>WEEK3</h4>
-<p>Solvespace 編譯</p>
-<p>編譯步驟:<br/>先將 Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe (透過 MSYS2 執行 shell 指令, 而非 portablegit 中的 sh.exe)</p>
-<p>git version 查驗 git 版本</p>
-<p>git 2.13 版本以上, 可以使用下列 git clone --recurse-submodules 取得所有子模組資料</p>
-<p>git clone --recurse-submodules https://github.com/solvespace/solvespace.git solvespace</p>
-<p>上述指令同:</p>
-<p>git clone https://github.com/solvespace/solvespace.git</p>
-<p>cd solvespace</p>
-<p>git submodule init</p>
-<p>git submodule update</p>
-<p>edit Y:\tmp\solvespace\extlib\angle\CMakeLists.txt comment out line 713 and 714</p>
-<p>#list(APPEND ANGLE_DEFINITIONS<br/>#"-DANGLE_PRELOADED_D3DCOMPILER_MODULE_NAMES={ \"d3dcompiler_47.dll\", \"d3dcompiler_46.dll\", \"d3dcompiler_43.dll\" }")<br/>endif()</p>
-<p>接著需要手動進行 libpng.dll.a 的編譯, 並改名為 libpng_static.a, 並放到編譯系統的 lib 目錄中 (即隨身系統的 msys64\mingw64\lib 目錄):</p>
-<p>cd solvespace</p>
-<p>cd extlib</p>
-<p>cd libpng</p>
-<p>mkdir build</p>
-<p>cd build</p>
-<p>cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/>mingw32-make</p>
-<p>(mingw32-make -Wl,-static)</p>
-<p>rename libpng.dll.a to libpng_static.a and copy to Y:\msys64\mingw64\lib</p>
-<p>接著回到 solvespace 原始碼目錄, 建立 build 目錄後進入 build 目錄, 執行:</p>
-<p>cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/>mingw32-make</p>
-<p>編譯完成後, 可以在 build\bin 目錄中建立 solvespace.exe, 配合相關 dll 檔案後, 即可執行.</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/q_GQ7zTabao" width="560"></iframe></p>
-<h4>WEEK4</h4>
-<p>沒進度</p>
-<h4>WEEK5</h4>
-<p><span>solvespace的基本操作練習</span></p>
-<p><span>這次所畫的圖是 Solvespace Tutorial 4 - Assembly</span><br/><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/P1psaD8q0Jo" width="560"></iframe></span></p>
-<br />WEEK << <a href='WEEK.html'>Previous</a> <a href='WEEK6~9.html'>Next</a> >> WEEK6~9</div>
+    <div id="tipue_search_content">WEEK << <a href='WEEK.html'>Previous</a> <a href='WEEK2.html'>Next</a> >> WEEK2<br /><h1>WEEK2~5</h1>
+<br />WEEK << <a href='WEEK.html'>Previous</a> <a href='WEEK2.html'>Next</a> >> WEEK2</div>
         
     <!-- footer -->
       <div class="container">
