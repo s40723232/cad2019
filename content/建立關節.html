@@ -154,8 +154,16 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">WEEK5 << <a href='WEEK5.html'>Previous</a> <a href='WEEK6.html'>Next</a> >> WEEK6<br /><h1>WEEK6~9</h1>
-<br />WEEK5 << <a href='WEEK5.html'>Previous</a> <a href='WEEK6.html'>Next</a> >> WEEK6</div>
+    <div id="tipue_search_content">構建乾淨的模型教程 翻譯 << <a href='構建乾淨的模型教程 翻譯.html'>Previous</a> <a href='建立動態形狀.html'>Next</a> >> 建立動態形狀<br /><h1>建立關節</h1>
+<p><br/><span style="font-family: Lato; font-size: 14px;">現在，我們將建立關節</span><span style="font-family: Lato; font-size: 14px;">/</span><span style="font-family: Lato; font-size: 14px;">馬達。大多數時候，我們知道每個關節的確切位置和方向。在這種情況下，我們只需使用</span><span style="font-family: Lato; font-size: 14px;">[</span><span style="font-family: Lato; font-size: 14px;">菜單欄</span><span style="font-family: Lato; font-size: 14px;">-&gt;</span><span style="font-family: Lato; font-size: 14px;">添加</span><span style="font-family: Lato; font-size: 14px;">-&gt;</span><span style="font-family: Lato; font-size: 14px;">關節</span><span style="font-family: Lato; font-size: 14px;">-&gt; ...]</span><span style="font-family: Lato; font-size: 14px;">添加關節，然後可以使用位置對話框和方向對話框更改它們的位置和方向。在其他情況下，我們只有</span><span style="font-family: Lato; font-size: 14px;">Denavit-Hartenberg</span><span style="font-family: Lato; font-size: 14px;">（即</span><span style="font-family: Lato; font-size: 14px;">D-H</span><span style="font-family: Lato; font-size: 14px;">）參數。在這種情況下，我們可以通過模型瀏覽器中位於</span><span style="font-family: Lato; font-size: 14px;">Models / tools / Denavit-Hartenberg</span><span style="font-family: Lato; font-size: 14px;">聯合</span><span style="font-family: Lato; font-size: 14px;">creator.ttm</span><span style="font-family: Lato; font-size: 14px;">中的工具模型來構建關節。有時，我們沒有關於關節位置和方向的信息。我們需要從導入的網格中提取它們。讓我們假設這是我們的情況。無需處理修改過的，更近似的網格，而是打開一個新場景，然後再次導入原始</span><span style="font-family: Lato; font-size: 14px;">CAD</span><span style="font-family: Lato; font-size: 14px;">數據。大多數時候，我們可以從原始網格中提取網格或基本形狀。第一步是細分原始網格。如果那不起作用，我們將通過三角形編輯模式進行操作。假設我們可以劃分原始網格。可以檢查較小的對象。我們正在尋找旋轉形狀，可以用作在其位置以相同方向創建關節的參考。首先，刪除所有不需要的對象。有時在多個打開的場景中工作也很有用，以便於可視化</span><span style="font-family: Lato; font-size: 14px;">/</span><span style="font-family: Lato; font-size: 14px;">操作。在我們的案例中，我們首先關注機器人的基座：它包含一個圓柱體，該圓柱體的第一個關節的位置正確。在三角形編輯模式下，我們有：</span></p>
+<p><span style="font-family: Lato; font-size: 14px;"><img alt="" height="367" src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut11.jpg" width="450"/></span></p>
+<p><span style="font-family: Lato; font-size: 14px;"></span></p>
+<p>我們通過頁面選擇器工具欄按鈕更改相機視圖，以便從側面查看對象。 適合查看的工具欄按鈕可以派上用場，以正確構圖版本中的對象。 然後我們切換到頂點編輯模式，並選擇屬於上光盤的所有頂點。 請記住通過打開<span>/</span>關閉某些層，我們可以隱藏場景中的其他對象。 然後我們切換回三角形編輯模式：</p>
+<p><img alt="" height="370" src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut12.jpg" width="600"/></p>
+<p></p>
+<p>現在，我們將關節複製回到原始場景中，並保存它（不要忘記定期保存您的工作！撤消/重做功能很有用，但不能保護您免受其他不幸的影響）。 我們對機器人中的所有關節重複上述過程，然後重命名它們。 我們還將使所有關節的關節屬性稍長一些，以便查看所有關節。 通過默認，關節將分配給可見性層2，但可以在對象公共屬性中對其進行更改。 現在，我們將所有關節分配給可見性層10，然後為場景臨時啟用可見性層10，以使這些關節也可視化（默認情況下，僅激活場景的可見性層1-8）。 這就是我們所擁有的（模型ResizableFloor_5_25模型在模型屬性對話框中暫時不可見）：</p>
+<p><img alt="" height="406" src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut13.jpg" width="400"/></p>
+<p>至此，我們可以開始構建模型層次結構並完成模型定義。 如果我們希望動態啟用opur機器人，則還有一個額外的中間步驟。</p><br />構建乾淨的模型教程 翻譯 << <a href='構建乾淨的模型教程 翻譯.html'>Previous</a> <a href='建立動態形狀.html'>Next</a> >> 建立動態形狀</div>
         
     <!-- footer -->
       <div class="container">
