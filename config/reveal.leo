@@ -369,78 +369,129 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221158.2">W2:在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
-</t>
+<t tx="leo.20200109221158.2">Week2
+            
+            在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
+             
+             [Week2網址](https://s40723232.github.io/cad2019/content/WEEK2.html)</t>
 <t tx="leo.20200109221731.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221731.2">W3:Solvespace 編譯
-</t>
+<t tx="leo.20200109221731.2">Week3
+           
+           Solvespace 編譯
+           
+           [Week3網址](https://s40723232.github.io/cad2019/content/WEEK3.html)</t>
 <t tx="leo.20200109221745.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221745.2">W5:solvespace的基本操作練習
-</t>
+<t tx="leo.20200109221745.2">Week5
+            
+            solvespace的基本操作練習
+             
+             [Week5網址](https://s40723232.github.io/cad2019/content/WEEK5.html)</t>
 <t tx="leo.20200109221747.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221747.2">W6:V-rep 網際雙輪車控制模擬
-</t>
+<t tx="leo.20200109221747.2">Week6
+            
+            V-rep 網際雙輪車控制模擬
+            
+            [Week6網址](https://s40723232.github.io/cad2019/content/WEEK6.html)</t>
 <t tx="leo.20200109221749.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221749.2">W7:統一網站架構, Solvespace 編譯與繪圖驗證
-</t>
+<t tx="leo.20200109221749.2">Week7
+            
+            統一網站架構, Solvespace 編譯與繪圖驗證
+            
+            [Week7網址](https://s40723232.github.io/cad2019/content/WEEK7.html)</t>
 <t tx="leo.20200109221752.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221752.2">W8:Solvespace 與 V-rep 應用, 雙輪車與行走機構
-</t>
+<t tx="leo.20200109221752.2">Week8
+            
+            Solvespace 與 V-rep 應用, 雙輪車與行走機構
+            
+            [Week8網址](https://s40723232.github.io/cad2019/content/WEEK8.html)</t>
 <t tx="leo.20200109221838.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221838.2">W10 : Creo開發緣起</t>
+<t tx="leo.20200109221838.2">Week10
+             
+             Creo開發緣起
+             
+             [Week10網址](https://s40723232.github.io/cad2019/content/WEEK10.html)</t>
 <t tx="leo.20200109221840.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221840.2">W11 :  solidworks開發緣起</t>
+<t tx="leo.20200109221840.2">Week11
+             
+             solidworks開發緣起
+             
+             [Week11網址](https://s40723232.github.io/cad2019/content/WEEK11.html)</t>
 <t tx="leo.20200109221841.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221841.2">W2 : NX開發緣起</t>
+<t tx="leo.20200109221841.2">Week12
+              
+              NX開發緣起
+              
+              [Week12網址](https://s40723232.github.io/cad2019/content/WEEK12.html)</t>
 <t tx="leo.20200109221843.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221843.2">W13 : inventor開發緣起</t>
+<t tx="leo.20200109221843.2">Week13
+             
+             inventor開發緣起
+             
+             [Week13網址](https://s40723232.github.io/cad2019/content/WEEK13.html)</t>
 <t tx="leo.20200109221905.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221905.2">W15 : week10~14 檢查</t>
+<t tx="leo.20200109221905.2">Week15 
+             
+             week10~14 檢查
+            
+             [Week15網址](https://s40723232.github.io/cad2019/content/WEEK15.html)</t>
 <t tx="leo.20200109221906.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221906.2">W16 : 考試</t>
+<t tx="leo.20200109221906.2">Week16 :
+          
+           考試
+           
+           [Week16網址](https://s40723232.github.io/cad2019/content/WEEK16.html)</t>
 <t tx="leo.20200109221908.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109221908.2">W17 : 任務1 構建乾淨的模型教程 翻譯
-           任務2 獨立製作題</t>
+<t tx="leo.20200109221908.2">Week17 : 
+            
+           任務1 構建乾淨的模型教程 翻譯
+           
+           任務2 獨立製作題
+           
+           [Week17網址](https://s40723232.github.io/cad2019/content/WEEK17.html)</t>
 <t tx="leo.20200109222211.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109222211.2">W9:期中考週 - 任務一驗證, 學員 reveal 期中簡報</t>
+<t tx="leo.20200109222211.2">Week9
+          
+          期中考週 - 任務一驗證, 學員 reveal 期中簡報
+          
+          [Week9網址](https://s40723232.github.io/cad2019/content/WEEK9.html)</t>
 </tnodes>
 </leo_file>
