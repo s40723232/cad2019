@@ -21,11 +21,50 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200109221158.1"><vh>week2</vh>
+<v t="leo.20200109221158.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221731.1"><vh>week3</vh>
+<v t="leo.20200109221731.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221745.1"><vh>week5</vh>
+<v t="leo.20200109221745.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221747.1"><vh>week6</vh>
+<v t="leo.20200109221747.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221749.1"><vh>week7</vh>
+<v t="leo.20200109221749.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221752.1"><vh>week8</vh>
+<v t="leo.20200109221752.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109222211.1"><vh>week9</vh>
+<v t="leo.20200109222211.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221838.1"><vh>week10</vh>
+<v t="leo.20200109221838.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221840.1"><vh>week11</vh>
+<v t="leo.20200109221840.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221841.1"><vh>week12</vh>
+<v t="leo.20200109221841.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221843.1"><vh>week13</vh>
+<v t="leo.20200109221843.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221905.1"><vh>week15</vh>
+<v t="leo.20200109221905.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221906.1"><vh>week16</vh>
+<v t="leo.20200109221906.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200109221908.1"><vh>week17</vh>
+<v t="leo.20200109221908.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20191101144738.1"><vh>week2~9</vh>
-<v t="leo.20191101144826.1"><vh>week</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -48,15 +87,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 40723232 網際內容管理
 
-### KMOLab
+### Week2~18
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[40723232 網誌](./../blog/index.html)
 
 
 </t>
@@ -326,16 +365,82 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191101144738.1">&lt;section&gt;
+<t tx="leo.20200109221158.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20191101144826.1">W2:在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
-W3:Solvespace 編譯
-W5:solvespace的基本操作練習
-W6:V-rep 網際雙輪車控制模擬
-W7:統一網站架構, Solvespace 編譯與繪圖驗證
-W8:Solvespace 與 V-rep 應用, 雙輪車與行走機構
-W9:期中考週 - 任務一驗證, 學員 reveal 期中簡報</t>
+<t tx="leo.20200109221158.2">W2:在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
+</t>
+<t tx="leo.20200109221731.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221731.2">W3:Solvespace 編譯
+</t>
+<t tx="leo.20200109221745.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221745.2">W5:solvespace的基本操作練習
+</t>
+<t tx="leo.20200109221747.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221747.2">W6:V-rep 網際雙輪車控制模擬
+</t>
+<t tx="leo.20200109221749.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221749.2">W7:統一網站架構, Solvespace 編譯與繪圖驗證
+</t>
+<t tx="leo.20200109221752.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221752.2">W8:Solvespace 與 V-rep 應用, 雙輪車與行走機構
+</t>
+<t tx="leo.20200109221838.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221838.2">W10 : Creo開發緣起</t>
+<t tx="leo.20200109221840.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221840.2">W11 :  solidworks開發緣起</t>
+<t tx="leo.20200109221841.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221841.2">W2 : NX開發緣起</t>
+<t tx="leo.20200109221843.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221843.2">W13 : inventor開發緣起</t>
+<t tx="leo.20200109221905.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221905.2">W15 : week10~14 檢查</t>
+<t tx="leo.20200109221906.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221906.2">W16 : 考試</t>
+<t tx="leo.20200109221908.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109221908.2">W17 : 任務1 構建乾淨的模型教程 翻譯
+           任務2 獨立製作題</t>
+<t tx="leo.20200109222211.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109222211.2">W9:期中考週 - 任務一驗證, 學員 reveal 期中簡報</t>
 </tnodes>
 </leo_file>
