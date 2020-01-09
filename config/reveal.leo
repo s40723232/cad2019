@@ -365,9 +365,14 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200109221158.1">&lt;section&gt;
+<t tx="leo.20200109221158.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
 </t>
 <t tx="leo.20200109221158.2">##Week2
 
