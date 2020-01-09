@@ -374,11 +374,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200109221158.2">##Week2
+<t tx="leo.20200109221158.2">## Week2
 
-###在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
+### 在自己的git hub建立新倉儲 cad2019 ，並且到mde.tw下載2019Fall可攜套件.7z
 
-[Week2網址](https://s40723232.github.io/cad2019/content/WEEK2.html)</t>
+[Week2 網址](https://s40723232.github.io/cad2019/content/WEEK2.html)</t>
 <t tx="leo.20200109221731.1">&lt;section&gt;
 @others
 &lt;/section&gt;
