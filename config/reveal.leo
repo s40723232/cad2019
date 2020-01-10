@@ -24,23 +24,44 @@
 <v t="leo.20200109221158.1"><vh>week2</vh>
 <v t="leo.20200109221158.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120557.1"><vh>week2 1</vh>
+<v t="leo.20200110120557.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109221731.1"><vh>week3</vh>
 <v t="leo.20200109221731.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110120657.1"><vh>week3 1</vh>
+<v t="leo.20200110120657.2"><vh>week</vh></v>
 </v>
 <v t="leo.20200109221745.1"><vh>week5</vh>
 <v t="leo.20200109221745.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120702.1"><vh>week5 1</vh>
+<v t="leo.20200110120702.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109221747.1"><vh>week6</vh>
 <v t="leo.20200109221747.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110120707.1"><vh>week6 1</vh>
+<v t="leo.20200110120707.2"><vh>week</vh></v>
 </v>
 <v t="leo.20200109221749.1"><vh>week7</vh>
 <v t="leo.20200109221749.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120713.1"><vh>week7 1</vh>
+<v t="leo.20200110120713.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109221752.1"><vh>week8</vh>
 <v t="leo.20200109221752.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120716.1"><vh>week8 1</vh>
+<v t="leo.20200110120716.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109222211.1"><vh>week9</vh>
 <v t="leo.20200109222211.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110120722.1"><vh>week9 1</vh>
+<v t="leo.20200110120722.2"><vh>week</vh></v>
 </v>
 <v t="leo.20200109221838.1"><vh>week10</vh>
 <v t="leo.20200109221838.2"><vh>week</vh></v>
@@ -57,11 +78,20 @@
 <v t="leo.20200109221905.1"><vh>week15</vh>
 <v t="leo.20200109221905.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120358.1"><vh>week15 1</vh>
+<v t="leo.20200110120358.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109221906.1"><vh>week16</vh>
 <v t="leo.20200109221906.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110120317.1"><vh>week16 1</vh>
+<v t="leo.20200110120317.2"><vh>week</vh></v>
+</v>
 <v t="leo.20200109221908.1"><vh>week17</vh>
 <v t="leo.20200109221908.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110120431.1"><vh>week17 1</vh>
+<v t="leo.20200110120431.2"><vh>week</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -563,5 +593,125 @@ week10~14 檢查
 期中考週 - 任務一驗證, 學員 reveal 期中簡報
 
 [Week9網址](https://s40723232.github.io/cad2019/content/WEEK9.html)</t>
+<t tx="leo.20200110120317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120317.2">## Week16 :
+
+&lt;iframe src="https://www.youtube.com/watch?v=mXtOxsCsIBQ&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120358.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120358.2">## Week15 
+
+&lt;iframe src="https://www.youtube.com/watch?v=BesNm_29vPU&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120431.2">## Week17 : 
+
+&lt;iframe src="https://www.youtube.com/watch?v=EIHpupWhES8&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120557.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120557.2">## Week2影片
+
+&lt;iframe src="https://www.youtube.com/watch?v=gW4k7MkkOsQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120657.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120657.2">## Week3
+
+&lt;iframe src="https://www.youtube.com/watch?v=w2_qJaeIOMI&amp;t=2s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120702.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120702.2">## Week5
+
+&lt;iframe src="https://www.youtube.com/watch?v=P1psaD8q0Jo&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120707.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120707.2">## Week6
+
+&lt;iframe src="https://www.youtube.com/watch?v=tqiEBeSgrvY&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120713.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120713.2">## Week7
+
+&lt;iframe src="https://www.youtube.com/watch?v=dJWU6D9mqiA&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120716.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120716.2">## Week8
+
+&lt;iframe src="https://www.youtube.com/watch?v=SDm78_71jVk&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120722.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110120722.2">## Week9
+
+&lt;iframe src="https://www.youtube.com/watch?v=pLdeAL4-gJQ&amp;t=1s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
